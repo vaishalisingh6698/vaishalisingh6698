@@ -3,8 +3,8 @@
 <h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 
 
  <p  style="float:left;">
- - I am **Programmer** | **Learner**
- - Currently learnin **Java**, **Web Development** and **Software Development**
+ - I am **Programmer** | **Learner** <br>
+ - Currently learnin **Java**, **Web Development** and **Software Development** <br>
  - Willing to contribute more and more in **Open Source Projects**</p>
 </div>
 <br>
@@ -17,8 +17,7 @@
 
 ## Programming Languages:
 <p align:"center">
- 
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+
  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	
 </p>
