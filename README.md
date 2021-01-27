@@ -1,34 +1,25 @@
-![Banner with Chandan mishra, Software Developer, Founder of iqbotics, Mentors](https://raw.githubusercontent.com/vaishalisingh6698/vaishalisingh6698/master/profile-header.png)
-<h1 align="center">Hi 👋, I'm Vaishali Singh 👋 👋🏾 👩🏾‍💻</h1>
+
+<h1 align="center">Hi there👋 , I am Vaishali Singh </h1>
 <h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 
 
  <p  style="float:left;">
- I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the Tech ecosystem led me to found Iqbotics India, a company for AI and Robotics design & development.
- </p>
- <img alt="GIF" src="https://raw.githubusercontent.com/vaishalisingh6698/vaishalisingh6698/master/Privacy-Policy-Designing-Fever.gif?raw=true" width="200" height="320" style="float:right!important;" />
+ - I am **Programmer** | **Learner**
+ - Currently learnin **Java**, **Web Development** and **Software Development**
+ - Willing to contribute more and more in **Open Source Projects**</p>
 </div>
 <br>
 
 ## Find me around the web 🌎: 
-<a href="https://github.com/vaishalisingh6698" style="margin-right:10px;float: left;">
- <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/vaishalisingh6698/vaishalisingh6698/master/myAvatar.png">
-</a>
-<p style="float: right;">
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Vaishali Singh</a> 📹 ✍🏾 <br/>
-- Tinkering with interactions on <a href="https://codepen.io/vaishalisingh6698"> Codepen</a> 🏓<br/>
-- Sharing updates on <a href="https://www.linkedin.com/in/vs6698/">LinkedIn</a> 💼
+< p align:"center">
+ <a href="https://github.com/vaishali singh6698"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/vs6698/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
-<p style="float: right;">
-    - 🔭 I’m currently working on Internwala <br/>
-    - 🌱 I’m currently learning Go Language <br/>
-    - 💬 Ask me about Development & design
-    - 📫 How to reach me: <a href="https://www.iqbotics.com">website</a> 💼 <br/>
-    - 😄 Pronouns: VAISHALI <br/>
-    - ⚡ Fun fact: Ironman == Fe-male <br/>
+
+## Programming Languages:
+<p align:"center">
+ 
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+ <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	
 </p>
-<hr/>
-<div style="display:flex;flex-direction:column;padding:2px;">
-  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishalisingh6698&show_icons=true&locale=en" alt="vaishalisingh6698" /></p>
-</div>
 
