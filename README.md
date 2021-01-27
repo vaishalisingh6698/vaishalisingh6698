@@ -16,12 +16,11 @@
 <p style="float: right;">
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Vaishali Singh</a> 📹 ✍🏾 <br/>
 - Tinkering with interactions on <a href="https://codepen.io/vaishalisingh6698"> Codepen</a> 🏓<br/>
-- Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/vs6698/">LinkedIn</a> 💼
 </p>
 <p style="float: right;">
     - 🔭 I’m currently working on Internwala <br/>
     - 🌱 I’m currently learning Go Language <br/>
-    - 👯 I’m looking to collaborate on Interview app API <br/>
     - 💬 Ask me about Development & design
     - 📫 How to reach me: <a href="https://www.iqbotics.com">website</a> 💼 <br/>
     - 😄 Pronouns: VAISHALI <br/>
