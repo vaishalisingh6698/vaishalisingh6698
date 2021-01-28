@@ -4,21 +4,24 @@
 
  <p  style="float:left;">
  - I am **Programmer** | **Learner** <br>
- - Currently learnin **Java**, **Web Development** and **Software Development** <br>
+ - Currently learning **Java**, **Web Development** and **Software Development** <br>
  - Willing to contribute more and more in **Open Source Projects**</p>
 </div>
 <br>
 
 ## Find me around the web 🌎: 
-< p align:"center">
- <a href="https://github.com/vaishali singh6698"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+< p align="center">
+        <a href="https://github.com/vaishali singh6698"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/vs6698/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
 
 ## Programming Languages:
-<p align:"center">
 
- <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-	
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+	<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+	<img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 </p>
 
