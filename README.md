@@ -3,9 +3,10 @@
 <h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 
 
  <p  style="float:left;">
- - I am **Programmer** | **Learner** <br>
- - Currently learning **Java**, **Web Development** and **Software Development** <br>
- - Willing to contribute more and more in **Open Source Projects**</p>
+ -👸I am <bold>Programmer</bold> | <bold>Learner</bold> <br>
+ -📚Currently learning <bold>Java</bold>, <bold>Web Development</bold> and <bold>Software Development</bold> <br>
+ -⚡Willing to contribute more and more in <bold>Open Source Projects</bold>
+ -🌈And many more </p>
 </div>
 <br>
 
