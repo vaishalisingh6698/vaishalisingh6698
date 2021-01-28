@@ -5,7 +5,7 @@
  <p  style="float:left;">
  -👸I am <bold>Programmer</bold> | <bold>Learner</bold> <br>
  -📚Currently learning <bold>Java</bold>, <bold>Web Development</bold> and <bold>Software Development</bold> <br>
- -⚡Willing to contribute more and more in <bold>Open Source Projects</bold>
+ -⚡Willing to contribute more and more in *Open Source Project * <br>
  -🌈And many more </p>
 </div>
 <br>
